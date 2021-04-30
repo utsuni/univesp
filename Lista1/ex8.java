@@ -8,3 +8,4 @@ class ex8 {
         "O inverso do número " + d1 + " " + d2 + " " + d3 + " é " + d3 + " " + d2 + " " + d1);
   }
 }
+// refazer
