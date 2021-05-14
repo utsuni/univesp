@@ -10,4 +10,5 @@ class ex7 {
     tempo = (double) (tempo / 100);
     System.out.println(tempo);
   }
-}
+} 
+// entendi mais ou menos.

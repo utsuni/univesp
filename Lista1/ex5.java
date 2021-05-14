@@ -10,10 +10,10 @@ class ex5{
 
       System.out.println(a+" "+b+" "+c+" "+d+" "+e);
       a = a + 1;
-      b = (4 * a + 1) / 10;
-      c = (4 * a + 1) % 10;
+      b = (4 * a + 1) / 10; // O resultado saira inteiro, pois não foi ultilizado o metado double
+      c = (4 * a + 1) % 10; // mostrara o resto 
       System.out.println(a+" "+b+" "+c+" "+d+" "+e);
-
+      
 
 	}
 }
