@@ -1,4 +1,4 @@
-class ex43 {
+class alternativo {
   public static void main(String[] args) {
 	// TAREFA EXTRA: Fazer entrada do usario ser pelo terminal usando o Scanner.
     // boolean opcaoNormal = true;

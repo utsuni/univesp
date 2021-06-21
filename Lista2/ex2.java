@@ -9,6 +9,6 @@ class ex2 {
     if (0 < a && a < b) {
       c = 0;
     }
-    System.out.printf("O valor de c é: %d\n", c);
+    System.out.printf("O valor de c e: %d\n", c);
   }
 }
