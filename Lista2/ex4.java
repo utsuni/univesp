@@ -44,3 +44,5 @@ class ex4 {
 //     return (double) ter;
 //   }
 // }
+//
+// OK

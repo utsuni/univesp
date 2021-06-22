@@ -12,3 +12,5 @@ class ex2 {
     System.out.printf("O valor de c e: %d\n", c);
   }
 }
+
+// OK
